@@ -1,11 +1,14 @@
 ### Hello there!  :shipit:
 
-- Ruby on Rails software developer specializing in back-end engineering
-- Completing an education from the Turing School of Software and Design
-- Former customer service coach and manager
-- Have cooked over 100 briskets at once 
-- May or may not have crashed my mountain bike a few times
-- Learning C# on the side, hoping to make a video game someday soon
+I am a Ruby on Rails software developer specializing in back-end engineering. 
+
+- I am curretly:
+  - Completing an education from the Turing School of Software and Design
+  - Learning C# on the side and hoping to make a video game someday soon
+- Fun Facts: 
+  - I have cooked over 100 briskets at once 
+  - I may or may not have crashed my mountain bike a few times
+  - I taught baseball at a camp in Haiti
 
 [![TannerDale's GitHub stats](https://github-readme-stats.vercel.app/api?username=TannerDale&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
