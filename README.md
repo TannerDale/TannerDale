@@ -1,5 +1,8 @@
 ### Hello there 👋
 
+- :bangbang: Ruby on Rails software developer specializing in back-end engineering
+- :school: Completing an education from the Turing School of Software and Design
+
 <!--
 **TannerDale/TannerDale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
