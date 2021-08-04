@@ -1,12 +1,12 @@
 ## Hello there!  :shipit:
 
-:fire: I am a Ruby on Rails developer specializing in back-end engineering! :fire:
+:fire: Ruby on Rails developer specializing in back-end engineering! :fire:
 
 Let's chat! :wave:
 - [LinkedIn](https://www.linkedin.com/in/tannerdale/)
 - [TannerDale.com](https://www.tannerdale.com)
 
-Currently:
+I am currently:
 - Completing an education at the Turing School of Software and Design.
 - Learning C# on the side; planning make a video game.
 
