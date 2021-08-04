@@ -1,7 +1,8 @@
-### Hello there 👋
+### Hello there :shipit:
 
-- :bangbang: Ruby on Rails software developer specializing in back-end engineering
+- :bang: Ruby on Rails software developer specializing in back-end engineering
 - :school: Completing an education from the Turing School of Software and Design
+- 
 
 [![TannerDale's GitHub stats](https://github-readme-stats.vercel.app/api?username=TannerDale&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
