@@ -7,12 +7,12 @@ Let's chat! :wave:
 - [TannerDale.com](https://www.tannerdale.com)
 
 Currently:
-- Completing an education at the Turing School of Software and Design
-- Learning C# on the side and hoping to make a video game someday soon
+- Completing an education at the Turing School of Software and Design.
+- Learning C# on the side; planning make a video game.
 
 Fun Facts: 
-- I have cooked over 100 briskets at once
-- I may or may not have crashed my mountain bike several times
+- I have cooked over 100 briskets at once.
+- I may or may not have crashed my mountain bike several times.
 
 [![TannerDale's GitHub stats](https://github-readme-stats.vercel.app/api?username=TannerDale&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
