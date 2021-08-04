@@ -12,7 +12,7 @@ Currently:
 
 Fun Facts: 
 - I have cooked over 100 briskets at once
-- I may or may not have crashed my mountain bike a several times
+- I may or may not have crashed my mountain bike several times
 
 [![TannerDale's GitHub stats](https://github-readme-stats.vercel.app/api?username=TannerDale&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
