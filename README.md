@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **TannerDale/TannerDale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- :bangbang: Ruby on Rails software developer specializing in back-end engineering
+- :school: Completing an education from the Turing School of Software and Design
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
