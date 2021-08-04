@@ -1,6 +1,6 @@
 ### Hello there :shipit:
 
-- :bang: Ruby on Rails software developer specializing in back-end engineering
+- :heavy_exclamation_mark: Ruby on Rails software developer specializing in back-end engineering
 - :school: Completing an education from the Turing School of Software and Design
 - 
 
