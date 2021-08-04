@@ -3,7 +3,7 @@
 I am a Ruby on Rails software developer specializing in back-end engineering. 
 
 - I am curretly:
-  - Completing an education from the Turing School of Software and Design
+  - Completing an education at the Turing School of Software and Design
   - Learning C# on the side and hoping to make a video game someday soon
 - Fun Facts: 
   - I have cooked over 100 briskets at once 
