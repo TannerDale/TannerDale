@@ -8,7 +8,7 @@ Let's chat! :wave:
 
 I am currently:
 - Completing an education at the Turing School of Software and Design.
-- Learning C# on the side; planning on making a video game.
+- Learning C# for video game and simulation development.
 
 Fun Facts: 
 - I have cooked over 100 briskets at once.
