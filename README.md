@@ -8,8 +8,9 @@ Let's chat! :wave:
 
 I am currently:
 - Completing an education at the Turing School of Software and Design
-- Expanding my JavaScript knowledge
+- Expanding my React knowledge
 - Diving into C# for game and simulation development
+- Expanding my Python knowledge into the world of Machine Learning
 
 Fun Facts: 
 - I have cooked over 100 briskets at once.
