@@ -13,6 +13,7 @@ I am currently:
 - Expanding my Python knowledge into the world of Machine Learning
 
 Fun Facts: 
+- Linters are great. Aggressive, but great.
 - I have cooked over 100 briskets at once.
 - I may or may not have crashed my mountain bike several times.
 
