@@ -6,12 +6,6 @@ Let's chat! :wave:
 - [LinkedIn](https://www.linkedin.com/in/tannerdale/)
 - [TannerDale.com](https://www.tannerdale.com)
 
-I am currently:
-- Completing an education at the Turing School of Software and Design
-- Expanding my React knowledge
-- Diving into C# for game and simulation development
-- Expanding my Python knowledge into the world of Machine Learning
-
 Fun Facts: 
 - Linters are great. Aggressive, but great.
 - I have cooked over 100 briskets at once.
