@@ -1,6 +1,6 @@
 ## Hello there!  :shipit:
 
-:fire: I am a Ruby on Rails developer specializing in back-end engineering! :fire:
+:fire: I am Software Engineer specializing in back-end engineering with Ruby on Rails! :fire:
 
 Let's chat! :wave:
 - [LinkedIn](https://www.linkedin.com/in/tannerdale/)
